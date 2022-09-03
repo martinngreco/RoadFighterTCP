@@ -1,0 +1,8 @@
+*.classpath
+*.prefs
+META-INF
+*.project
+/target/
+.idea
+.settings
+/bin/
